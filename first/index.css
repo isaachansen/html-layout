@@ -1,0 +1,27 @@
+
+.header {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(68, 68, 68);
+}
+
+.right {
+    background-color: rgb(153, 153, 153);
+    height: 650px;
+    width: 150px;
+    float: right;
+}
+.left {
+    background-color: rgb(153, 153, 153);
+    height: 650px;
+    width: 150px;
+    float: left;
+}
+
+.bottom {
+    background-color: black;
+    width: 2000px;
+    height: 70px;
+    margin: 590px auto;
+}
+
